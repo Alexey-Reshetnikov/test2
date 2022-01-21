@@ -1,7 +1,7 @@
 {
   "name": "Alexey Reshetnikov Test",
   "short_name": "Pushwoosh Notifications Test",
-  "gcm_sender_id": "YOUR_GOOGLE_PROJECT_ID",
+  "gcm_sender_id": "998151629237",
   "display": "standalone",
   "gcm_user_visible_only": true
 }
